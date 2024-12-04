@@ -1,9 +1,7 @@
 # Cricket Data Analysis  
 
 ## Objective  
-We aim to identify the best 11 cricket players in the world who:  
-- Can score at least **180 runs on average**.  
-- Can defend **150 runs on average**.  
+We aim to identify the best 11 cricket players in the world!!
 
 ## Selection Parameters  
 
